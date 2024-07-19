@@ -2,7 +2,7 @@
 
 This project is the homework assignment for the Programming Languages (PL) course (Spring 2020) at Chung Yuan Christian University (CYCU). The project consists of three parts, each building on the previous one to create a comprehensive interpreter with enhanced features and functionality.
 
-# Implementation:
+# Implementation
 
 In the first part, we write an interpreter capable of interpreting commands using a defined syntax. This involves parsing the commands, executing them, and producing the expected outputs.
 
