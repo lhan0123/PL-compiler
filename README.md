@@ -1,6 +1,6 @@
 # Introduction
 
-This project is the homework assignment for the Programming Languages (PL) course (Spring 2020) at Chung Yuan Christian University (CYCU). The project consists of three parts, each building on the previous one to create a comprehensive interpreter with enhanced features and functionality. It supports basic computational operations, array manipulations, loop constructs, syntax checks, and error handling. 
+This project is the homework assignment for the Programming Languages (PL) course (Spring 2020) at Chung Yuan Christian University (CYCU). It consists of three parts, each building on the previous one to create an interpreter with enhanced features and functionality. It supports basic computational operations, array manipulations, loop constructs, syntax checks, and error handling. 
 
 # Implementation
 
